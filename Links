@@ -2,3 +2,16 @@ Test
 https://us01.z.antigena.com/l/uSI1KUlib8K5vBahhGv9pzJ1_DT83jaMklZkwkqgRoA5I256NdrywSPILAii2~-EcaKid0LzPqME6JonnEZ5AWgT33Pqde0SB7uf3ck047pdEMJZigLuu4WvhcaMP9MOrReyjRXB_aWSft0MEYrikP9JSragHlt~tX8o887J111DB~WmD1Rs3W~QldzbGC3z75ApDKaLr_k25q2F1JcAzayk9ozEu5F8Nyz22mR9qp9w-8G
 
 
+Control Tower
+IAM polices - 1
+S3
+Cloud Front - 3
+EC2
+Auto scaling
+LoadBalancer
+DNS Route 53
+ECS - 2
+CloudWatch
+Multi Account
+beanstalk aws
+API GW
