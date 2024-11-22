@@ -15,3 +15,12 @@ CloudWatch
 Multi Account
 beanstalk aws
 API GW
+
+
+sudo curl -Lo /usr/local/bin/ecs-cli https://amazon-ecs-cli.s3.amazonaws.com/ecs-cli-linux-amd64-latest
+sudo chmod +x /usr/local/bin/ecs-cli
+ecs-cli --version
+
+ecs-cli up --cluster-config ECS-Workshop-Cluster --region <SUA_REGIÃO> --vpc <ID_DA_SUA_VPC> --subnets <ID_DAS_SUB-REDES> --force
+
+ecs-cli ps --cluster-config ECS-Workshop-Cluster
